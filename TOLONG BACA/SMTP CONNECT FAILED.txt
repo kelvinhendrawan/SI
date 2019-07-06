@@ -1,0 +1,14 @@
+* PASTIKAN PRODUK MU BELI DI BMARKET 
+* JANGAN DOWNLOAD YANG ADA DI GOOGLE BISA JADI DI TANAM PHPRANSOME / LOGGER
+
+
+
+SMTP CONNECT FAILED : 
+
+1. Username & Password SMTP Salah 
+2. Hostmu gk tepat 
+3. Settingan SMTP mu :3 
+4. Antivirusmu Tolong dimatikan - ini pengalamanku gk spam 3 hari -_- tiba tiba lupa gk matiin Avast
+5. Settingan Relaynya - Masuk Apps - Gmail - Advanced Setting - Bawah sendiri banyak cari menu yang ada box configure : Requires TLS + change ke Any Address - save
+6. Masuk ke menu Security. - cari basic setting - enforce blablabla ( click itu ) - save
+
